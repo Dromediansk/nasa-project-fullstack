@@ -1,1 +1,1 @@
-<img src="./assets/images/NASA-project-architecture.svg">
+<img src="./assets/images/architecture.svg">
